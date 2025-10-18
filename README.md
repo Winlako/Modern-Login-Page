@@ -26,8 +26,7 @@ Vanilla JavaScript (ES6) – Form handling and interactions
 
 Clone this repository
 
-git clone https://github.com/your-username/modern-login.git
-cd modern-login
+git clone https://github.com/Winlako/Modern-Login-Page.git
 
 
 Open in your browser
